@@ -1,0 +1,6 @@
+- bật xampp/ apache với mysql
+- vào folder flower-store chuột phải git bash here
+- "php artisan optimize"
+- http://localhost/flower_store/public/home
+- http://localhost/flower_store/public/admin/login
+- tk admin: admin@gmail.com/Matkhau1*
